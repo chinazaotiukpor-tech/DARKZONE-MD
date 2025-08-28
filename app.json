@@ -7,8 +7,8 @@
 
     "stack": "container",
   "env": {
-    "SESSION_ID": {
-      "description": "Put the session-id here.",
+    "SESSION": {
+      "description": "IK~X9AwkCQD#Y1rh2IPsqiCRjBjwYQ7dtYmSjzoSw81ELs1PJuZYWmc",
       "required": true,
       "value": ""
     },  
@@ -20,7 +20,7 @@
     }, 
       
     "PREFIX": {
-      "description": "paste your bot prefix note! Don't apply null prefix.",
+      "description": ".",
       "required": false,
       "value": "."
     },
@@ -91,7 +91,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923306137477"
+      "value": "2348079589280"
 
     }, 
 
